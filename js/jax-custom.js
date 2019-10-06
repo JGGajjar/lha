@@ -118,5 +118,5 @@ function setInstaSection() {
     });
     myModal.featchData();
 }
-// Set blog webcontent 
+// Set instagram webcontent 
 setInstaSection();
