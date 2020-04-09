@@ -2,7 +2,9 @@
 Lifray DXP JSONWS API
 
 # Prerequisite setup
+
 Liferay DXP Setup
+
 Apache Tomcat
 
 # Project setup
