@@ -1,5 +1,4 @@
-# lha
-Lifray DXP JSONWS API
+# Demo: Create Web page using Liferay DXP JSON Web Service API
 
 # Prerequisite setup
 
